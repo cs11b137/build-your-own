@@ -1,0 +1,13 @@
+{
+  "name": "build-your-own-vnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "2.8.5"
+  }
+}
